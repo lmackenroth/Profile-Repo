@@ -1,4 +1,4 @@
-title: Lizzy's Profile
+title: "Lizzy's Profile"
 theme: jekyll-theme-dinky
 exclude:
-  - assets/css
+  - assets/csss
