@@ -1,2 +1,4 @@
 title: Lizzy's Profile
 theme: jekyll-theme-dinky
+exclude:
+  - assets/css
